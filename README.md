@@ -1,2 +1,3 @@
 # Welcome to my Github Profile
-[![trophy](https://github-profile-trophy.vercel.app/?username=arihant2math)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arihant2math)](https://github.com/arihant2math/arihant2math/)
+[![arihant2math's GitHub stats](https://github-readme-stats.vercel.app/api?username=arihant2math)](https://github.com/arihant2math/arihant2math/)
